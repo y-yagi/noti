@@ -30,7 +30,7 @@ including macOS, Linux, FreeBSD, and Windows.
 * Pushover
 * Slack
 
-Check out the [Wiki] for more information on how to configure mobile
+Check out the [Doc](docs/noti.md) for more information on how to configure mobile
 notifications. If you're curious, you can also browse the [screenshots]
 directory.
 
@@ -160,6 +160,7 @@ noti -pwatch $(pgrep docker-machine)
 
 [OS X Banner Notification]: https://raw.githubusercontent.com/variadico/noti/master/.github/screenshots/osx_banner.png
 [Wiki]: https://github.com/variadico/noti/wiki
+[Docs]: https://github.com/variadico/noti/tree/master/docs/noti.md
 [screenshots]: https://github.com/variadico/noti/tree/master/.github/screenshots
 [releases page]: https://github.com/variadico/noti/releases
 [Gitter]: https://badges.gitter.im/variadico/noti.svg
